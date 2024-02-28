@@ -17,7 +17,6 @@ System.out.println(x);
 
 int y = box2.getArea();
 System.out.println(y);
-
 }
 
 public Box(int height,int width,int breadth)
