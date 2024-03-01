@@ -17,7 +17,7 @@ public Student(String name,int sub1,int sub2,int sub3)
 this.name= name;
 this.sub1 =sub1;
 this.sub2 = sub2;
-this.sub3 = sub2;
+this.sub3 = sub3;
 }
 
 void computeTotalAverage()
